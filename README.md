@@ -4,9 +4,13 @@ In this Databricks Azure project, you will use PySpark & Parquet file formats to
 
 **𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀**
 1.Clients have data available in CSV format and it's not in proper format with no columns names, datatype...
+
 2.Upload CSV files to DBFS.
+
 3.Row data present in two different files as Sales.CSV and Menu.CSV
+
 4.Clean the data and process and build certain KPI for the Business.
+
 5.Join both the tables and perform certain KPI
 
 **KPI's**
