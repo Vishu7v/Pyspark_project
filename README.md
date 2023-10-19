@@ -12,7 +12,6 @@ In this Databricks Azure project, you will use PySpark & Parquet file formats to
 **KPI's**
 
 1.Total Amount spent by each customer
-
 2.Total Amount spent by each food category
 3.Total Amount of sales in each month
 4.Yearly sales
